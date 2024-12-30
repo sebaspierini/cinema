@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1, 
+        "titulo": "Kraven", 
+        "desc": "El inmigrante ruso Sergei Kravinoff emprende una misión para demostrar que es el mejor cazador del mundo.", 
+        "precio": 500, 
+        "img": "assets/kraven.jpg"
+    },
+    {
+        "id": 2, 
+        "titulo": "Mufasa", 
+        "desc": "El rey león es una próxima película estadounidense de imagen generada por computadora fotorrealista dirigida por Barry Jenkins, a partir de un guion escrito por Jeff Nathanson.", 
+        "precio": 1000, 
+        "img": "assets/mufasa.jpg"
+    },
+    {
+        "id": 3, 
+        "titulo": "La Venganza de Cenicienta", 
+        "desc": "Cenicienta es empujada demasiado lejos por sus malvadas hermanastras y madrastra, lo que hace que cambie sus zapatillas de cristal y utilice la ayuda de su Hada Madrina para buscar una venganza sangrienta.", 
+        "precio": 5000, 
+        "img": "assets/la_venganza_de_cenicienta.jpg"
+    },
+    {
+        "id": 4, 
+        "titulo": "La guerra de los rohirrim",  
+        "desc": "El señor de los anillos: La guerra de los Rohirrim se centra en un personaje del apéndice del libro, el poderoso Rey de Rohan: Helm Hammerhand. El filme de animación narra una batalla legendaria que ayudó a dar forma a la Tierra Media. La película amplía la historia no contada detrás de la fortaleza del abismo de Helm, profundizando en la vida y los sangrientos tiempos de Hammerhand. La historia está ambientada aproximadamente 250 años antes de los sucesos de El Señor de los Anillos: La Comunidad del Anillo.", 
+        "precio": 10000, 
+        "img": "assets/la_guerra_de_los_rohirrim.jpg"
+    },
+    {
+        "id": 5, 
+        "titulo": "Moana 2",  
+        "desc": "Secuela de la película musical de animación Vaiana (2016), que nos trae de vuelta a la aventurera y testaruda princesa Vaiana y al audaz y travieso semidiós Maui. Juntos  protagonizarán un nuevo viaje con una nueva tripulación de insólitos marineros, que se adentrarán en los lejanos mares de Oceanía para vivir una aventura sin precedentes", 
+        "precio": 2000, 
+        "img": "assets/moana2.jpg"
+    },
+    {
+        "id": 6, 
+        "titulo": "Nosferatu",  
+        "desc": "En 1838, el joven Hutter viaja a Transilvania para cerrar un trato con un enigmático conde en un castillo de los Cárpatos. Tras un tumultuoso viaje, descubre que el conde es la reencarnación de Nosferatu, un vampiro que amenaza su vida.", 
+        "precio": 15500, 
+        "img": "assets/nosferatu.jpg"
+    },
+    {
+        "id": 7, 
+        "titulo": "Solo leveling",  
+        "desc": "En un mundo de 'cazadores' con habilidades sobrehumanas, Sung Jinwoo es visto como el más débil. Su vida cambia al descubrir una doble mazmorras oculta y, tras un grave accidente, accede a un sistema que le permite subir de nivel. A medida que completa misiones y derrota monstruos, Jinwoo se fortalece y revela su verdadero potencial, transformando su destino y el de los cazadores.", 
+        "precio": 25000, 
+        "img": "assets/solo_leveling.jpg"
+    },
+    {
+        "id": 8, 
+        "titulo": "Sting",  
+        "desc": "En Nueva York, un extraño huevo cae del cielo y libera una araña que es descubierta por Charlotte, una niña de doce años. A pesar de sentirse aislada, crea un vínculo con la araña, a la que llama Sting, y la guarda en secreto. A medida que Sting crece de manera monstruosa, su hambre por sangre aumenta, y empiezan a desaparecer mascotas y vecinos.", 
+        "precio": 30000, 
+        "img": "assets/sting.jpg"
+    },
+    {
+        "id": 9, 
+        "titulo": "Wicked",  
+        "desc": "El origen de cómo una mujer con piel de color verde se convirtió en la malvada Bruja del Oeste, mucho tiempo antes de que Dorothy llegara hasta la tierra de Oz. Wicked centra su historia en torno a las brujas de la tierra de Oz Elphaba, la Bruja del Oeste y Glinda, La Bruja del Norte.", 
+        "precio": 30000, 
+        "img": "assets/assets9.jpg"
+    }
+    
+]
